@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DailyCoding.iml" filepath="$PROJECT_DIR$/.idea/DailyCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dc_20230118_firstReverse/DailyCoding_firstReverse.iml" filepath="$PROJECT_DIR$/Dc_20230118_firstReverse/DailyCoding_firstReverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dc_20230113_computeWhenDouble/Dc_20230113_computeWhenDouble.iml" filepath="$PROJECT_DIR$/Dc_20230113_computeWhenDouble/Dc_20230113_computeWhenDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dc_20230116_powerOfTwo/Dc_20230116_powerOfTwo.iml" filepath="$PROJECT_DIR$/Dc_20230116_powerOfTwo/Dc_20230116_powerOfTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dc_20230117_firstCharacter/Dc_20230117_firstCharacter.iml" filepath="$PROJECT_DIR$/Dc_20230117_firstCharacter/Dc_20230117_firstCharacter.iml" />
+    </modules>
+  </component>
+</project>
